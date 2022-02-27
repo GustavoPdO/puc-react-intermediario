@@ -1,0 +1,12 @@
+{
+  "translation": {
+    "welcome": "Welcome!",
+    "register-button": "Register here!",
+    "register-success": "You've have successfully registered!",
+    "register-fail": "Error while trying to register.\nPlease try again.",
+    "be-part": "Be part of this!",
+    "wait-list-paragraph": "See who is in the wait list",
+    "here": "here",
+    "full-name": "Full name"
+  }
+}

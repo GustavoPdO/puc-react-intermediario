@@ -1,0 +1,36 @@
+.header_container {
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+
+  &.__light {
+    border-bottom: 1px solid black;
+  }
+
+  &.__dark {
+    border-bottom: 1px solid white;
+  }
+
+  > div {
+    display: flex;
+
+    a {
+      margin-right: 16px;
+    }
+  }
+}
+
+.header_button {
+  &.__light {
+    svg {
+      color: black;
+    }
+  }
+
+  &.__dark {
+    svg {
+      color: white;
+    }
+  }
+}
